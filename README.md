@@ -7,3 +7,5 @@ cd PythonTutorial-Easy-to-Hard
 ls
 
 There you will see the .py files
+
+(I know right now there is only a easy folder, but there will be added a medium and hard)
