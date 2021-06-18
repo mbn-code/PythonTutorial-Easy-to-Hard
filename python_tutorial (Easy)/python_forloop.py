@@ -12,7 +12,7 @@ fruits = ["apple", "banana", "cherry"]
 
 for x in fruits:
     print(x)
-    # This means 'when banana in x (the fruits list) break and don't print the rest'
+    # This means 'when it gets to banan in x (the fruits list) break and don't print the rest (only apple and banana)'
     if x == "banana":
         break
 
